@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="aqGrad" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="aqDrop" x1="22" y1="16" x2="42" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#bae6fd"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#aqGrad)"/>
+  <path d="M32 13C32 13 18 29.2 18 38.5C18 46.232 24.268 52.5 32 52.5C39.732 52.5 46 46.232 46 38.5C46 29.2 32 13 32 13Z" fill="url(#aqDrop)"/>
+  <circle cx="32" cy="39" r="5.5" fill="#0c4a6e"/>
+  <circle cx="32" cy="39" r="2.2" fill="#38bdf8"/>
+</svg>
